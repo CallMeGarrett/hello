@@ -1,0 +1,15 @@
+/**
+ * Garrett O'Flaherty
+ * 2020/08/24
+ * Garrett's first C program
+ *
+ */
+#include <stdlib.h>
+#include <stdio.h>
+
+int main(int argc, char **argv) {
+
+	printf("Garrett O'Flaherty/n");
+
+	return 0;
+}
